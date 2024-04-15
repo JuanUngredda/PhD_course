@@ -10,3 +10,4 @@ dependencies:
   - bokeh
   - rise
   - notebook=6.5.6
+  - sympy
